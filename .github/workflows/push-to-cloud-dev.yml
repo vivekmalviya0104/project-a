@@ -14,7 +14,7 @@ env:
 # Only run on a push to this branch
 on:
   push:
-     branches: [ dev ]
+     branches: [ develop ]
 
 jobs:
   build:
