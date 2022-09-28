@@ -8,7 +8,7 @@
     <!-- ====================================================================== -->
     <parent>
         <groupId>com.projects.dam</groupId>
-        <artifactId>project-a</artifactId>
+        <artifactId>project-a-dam</artifactId>
         <version>1.0.0-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
