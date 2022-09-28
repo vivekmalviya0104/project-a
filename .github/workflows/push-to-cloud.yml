@@ -6,7 +6,7 @@ env:
   # Directory within the Cloud Manager Git repository
   PROJECT_DIR: project-a
   # Cloud Manager's Git repository
-  MAIN_REPOSITORY: https://${{ secrets.MAIN_USER }}:${{ secrets.MAIN_PASSWORD }}@git.cloudmanager.adobe.com/sika/sika/parent-project
+  MAIN_REPOSITORY: https://${{ secrets.MAIN_USER }}:${{ secrets.MAIN_PASSWORD }}@git.cloudmanager.adobe.com/sika/parent-project
   # The branch in Cloud Manager's Git repository to push to
   MAIN_BRANCH : main
   
